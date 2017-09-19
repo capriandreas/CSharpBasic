@@ -1,0 +1,6 @@
+C:\Users\capri\documents\visual studio 2017\Projects\W1S1_PengantarKonsepDasarOOP\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\capri\documents\visual studio 2017\Projects\W1S1_PengantarKonsepDasarOOP\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\capri\documents\visual studio 2017\Projects\W1S1_PengantarKonsepDasarOOP\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\capri\documents\visual studio 2017\Projects\W1S1_PengantarKonsepDasarOOP\ConsoleApp3\obj\Debug\ConsoleApp3.csprojResolveAssemblyReference.cache
+C:\Users\capri\documents\visual studio 2017\Projects\W1S1_PengantarKonsepDasarOOP\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\capri\documents\visual studio 2017\Projects\W1S1_PengantarKonsepDasarOOP\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
